@@ -31,11 +31,6 @@
 [![查看项目](https://img.shields.io/badge/GitHub-查看项目-181717?style=for-the-badge&logo=github)](https://github.com/onholiday37/MC-Laowu-meme-mod-1.20.1-Forge-47.4.0-Java-17)
 ![Stars](https://img.shields.io/github/stars/onholiday37/MC-Laowu-meme-mod-1.20.1-Forge-47.4.0-Java-17?style=for-the-badge&color=FFB000)
 
-## 🛠️ 使用的技术
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,gradle,github,git,vscode,idea"/>
-</p>
 
 ## 🎨 独立项目招募
 
@@ -48,6 +43,11 @@
 
 > 目前属于无偿兴趣合作，随缘参与、不强制工期。有兴趣可以通过 GitHub 联系我。
 
+## 🛠️ 使用的技术
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,gradle,github,git,vscode,idea"/>
+</p>
 
 ## 📊 主玩
 
