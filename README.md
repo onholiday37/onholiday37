@@ -19,7 +19,7 @@
 
 - 🔧 正在制作和移植 Minecraft 模组
 - ☕ 主要使用 Java、Forge 和 NeoForge
-- 🎮 当前维护 Minecraft 1.20.1 与 1.21.1
+- 🎮 当前维护 Minecraft 1.20.1 与 1.21.1 的模组
 - 🐛 欢迎提交 Bug 报告和改进建议
 
 ## 🚀 主要项目
