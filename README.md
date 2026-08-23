@@ -24,11 +24,12 @@
 
 ## 🚀 主要项目
 
-<p align="center">
-  <a href="https://github.com/onholiday37/MC-Laowu-meme-mod-1.20.1-Forge-47.4.0-Java-17">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onholiday37&repo=MC-Laowu-meme-mod-1.20.1-Forge-47.4.0-Java-17&theme=synthwave&hide_border=true"/>
-  </a>
-</p>
+### [🐱 Laowu Meme Mod](https://github.com/onholiday37/MC-Laowu-meme-mod-1.20.1-Forge-47.4.0-Java-17)
+
+老五梗 Minecraft 模组移植与维护项目，支持 Forge 1.20.1，并持续移植 Forge 1.21.1。
+
+[![查看项目](https://img.shields.io/badge/GitHub-查看项目-181717?style=for-the-badge&logo=github)](https://github.com/onholiday37/MC-Laowu-meme-mod-1.20.1-Forge-47.4.0-Java-17)
+![Stars](https://img.shields.io/github/stars/onholiday37/MC-Laowu-meme-mod-1.20.1-Forge-47.4.0-Java-17?style=for-the-badge&color=FFB000)
 
 ## 🛠️ 使用的技术
 
@@ -48,16 +49,10 @@
 > 目前属于无偿兴趣合作，随缘参与、不强制工期。有兴趣可以通过 GitHub 联系我。
 
 
-## 📊 GitHub 数据
+## 📊 主玩
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=onholiday37&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onholiday37&layout=compact&theme=synthwave&hide_border=true"/>
-</p>
+- lol
+- ow
+- escape form tarkov
+- 在线时间不定但是基本随叫随到
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/onholiday37?style=for-the-badge&logo=github&label=Followers&color=8A2BE2"/>
-  <img src="https://img.shields.io/github/stars/onholiday37?style=for-the-badge&logo=github&label=Total%20Stars&color=FFB000"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB000,50:67218F,100:19002E&height=120&section=footer"/>
