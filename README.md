@@ -53,6 +53,6 @@
 
 - lol
 - ow
-- escape form tarkov
+- escape from tarkov
 - 在线时间不定但是基本随叫随到
 
