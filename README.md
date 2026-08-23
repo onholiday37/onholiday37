@@ -26,7 +26,7 @@
 
 ### [🐱 Laowu Meme Mod](https://github.com/onholiday37/MC-Laowu-meme-mod-1.20.1-Forge-47.4.0-Java-17)
 
-老五梗 Minecraft 模组移植与维护项目，支持 Forge 1.20.1，并持续移植 Forge 1.21.1。
+老吴梗 Minecraft 模组移植与维护项目，支持 Forge 1.20.1，并持续移植 Forge 1.21.1。
 
 [![查看项目](https://img.shields.io/badge/GitHub-查看项目-181717?style=for-the-badge&logo=github)](https://github.com/onholiday37/MC-Laowu-meme-mod-1.20.1-Forge-47.4.0-Java-17)
 ![Stars](https://img.shields.io/github/stars/onholiday37/MC-Laowu-meme-mod-1.20.1-Forge-47.4.0-Java-17?style=for-the-badge&color=FFB000)
