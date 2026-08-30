@@ -51,6 +51,7 @@
 
 ## 📊 主玩
 
+- FFXIV
 - lol
 - ow
 - escape from tarkov
